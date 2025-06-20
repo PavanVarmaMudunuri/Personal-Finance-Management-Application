@@ -1,0 +1,79 @@
+Project DockOne: AI-Powered Optimization of Hiring and Onboarding Process
+-	l
+
+1. Problem Statement
+The current onboarding and hiring process is slow due to manual operations, causing waiting times of up to 3 days for new hires to complete onboarding. Additionally, issues with logistical coordination result in a suboptimal candidate experience. These challenges not only affect the experience of new hires but also disrupt daily operational workflows, ultimately impacting both candidate satisfaction and organizational challenges.
+These challenges:
+•	Burden departments involved in onboarding (HR, IT & Admin Support)
+•	Reduce candidate satisfaction
+•	Impact operational efficiency and time-to-productivity
+2. Objective
+To streamline the onboarding process using Generative AI (GenAI) and Python, by:
+•	Automating repetitive HR tasks (e.g., document generation, reminders)
+•	Enhancing communication via AI-powered assistants
+•	Improving transparency and coordination between stakeholders
+•	Reducing overall onboarding time
+
+3. Tools & Technologies (TBD)
+Component	Technology
+Programming Language	Python 3.x
+AI Model	OpenAI GPT-4 / GPT-4o
+Backend Framework	FastAPI / Flask
+UI Dashboard	Streamlit / Dash
+Database	PostgreSQL / SQLite
+Automation	Python (cron, Celery)
+Communication APIs	Gmail API, Slack, SendGrid
+
+4. Functional Components
+4.1 Long-Term Reminder System
+•	Remind patients to schedule routine checkups every 6–12 months via app, SMS, WhatsApp
+•	Maintain daily hygiene habits (brushing, rinsing, flossing)
+4.2 Wellness Tracker
+A simple log (digital or paper-based) to monitor:
+•	Any recurring pain or discomfort
+•	Oral health symptoms
+•	Medication side effects (if still on any dental meds)
+4.3 Emergency Support Line
+Dedicated helpline or chatbot:For elderly patients or caregivers to consult when issues arise unexpectedly
+4.4 Periodic Engagement from Dental Clinic
+Semi-annual check-in via phone or SMS:
+•	Ask about any dental issues
+•	Offer to schedule routine visits
+•	Reinforce hygiene education
+o	
+
+4.4 Onboarding Tracker Dashboard
+•	Visual dashboard showing onboarding progress across departments
+•	Built using Stream lit or Dash
+
+4.5 Email and Reminder System
+•	Sends automatic:
+o	Welcome messages
+o	Daily reminders
+o	Escalation alerts to stakeholders
+
+5. Implementation Plan
+Phase 1 – MVP
+•	Offer letter & document generation using GPT
+•	Automated emails and reminders
+•	Simple front-end dashboard
+Phase 2 – Coordination Automation
+•	Integration with IT and HR tools
+•	Task scheduler for follow-ups
+•	GPT-based FAQ chatbot
+Phase 3 – Full Integration
+•	Secure user authentication (JWT/OAuth)
+•	Feedback loop for prompt tuning
+•	Real-time status updates across departments
+ 
+ 
+6. Success Metrics
+Metric	Target
+Time-to-onboard	< 2 days (from 4 days)
+Reduction in manual effort	≥ 30%
+Candidate satisfaction	+20% improvement
+HR productivity	+50% efficiency gain
+7. Risks
+•	Errors in code
+•	Glitches (system, compatibility)
+•	New hires may withdraw application
