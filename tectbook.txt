@@ -1,1 +1,103 @@
 
+### **Chapter 1: Agents in the World**
+- 1.1 → What is Artificial Intelligence?  
+  - 1.1.1 Artificial and Natural Intelligence  
+  - 1.1.2 Natural Intelligence  
+- 1.2 → A Brief History of AI  
+  - 1.2.1 Relationship to Other Disciplines  
+- 1.3 → Agents Situated in Environments  
+- 1.4 → Prototypical Applications  
+- 1.5 → Agent Design Space  
+- 1.6 → Designing Agents  
+
+### **Chapter 2: Agent Architectures**
+- 2.1 → Agents and Environments  
+  - 2.1.1 Controllers  
+  - 2.1.2 Belief States  
+  - 2.1.3 Agent Functions  
+- 2.2 → Hierarchical Control  
+- 2.3 → Designing Agents  
+  - 2.3.1 Discrete, Continuous, Hybrid  
+  - 2.3.2 Choosing Agent Functions  
+  - 2.3.3 Offline and Online Computation  
+
+### **Chapter 3: Searching for Solutions**
+- 3.1–3.6 → Search Strategies (BFS, DFS, A*, etc.)  
+- 3.6.1–3.6.3 → Heuristics and Optimization  
+
+### **Chapter 4: Reasoning with Constraints**
+- 4.1–4.2 → CSPs and Graph Search  
+- 4.3–4.6 → Local Search and Consistency  
+- 4.7–4.8 → Optimization Methods  
+
+### **Chapter 5: Propositions and Inference**
+- 5.1–5.3 → Logic: Syntax, Semantics, Clauses  
+- 5.4–5.6 → Proof Techniques, Contradiction  
+- 5.7–5.9 → Non-monotonic Reasoning, Abduction, Causality  
+
+### **Chapter 6: Deterministic Planning**
+- 6.1 → STRIPS & Action Representation  
+- 6.2–6.5 → Planning Algorithms  
+
+### **Chapter 7: Supervised Machine Learning**
+- 7.1–7.3 → Regression, Trees, Classification  
+- 7.4–7.5 → Overfitting, Boosting  
+
+### **Chapter 8: Neural Networks and Deep Learning**
+- 8.1–8.3 → Network Fundamentals  
+- 8.4–8.5 → CNNs, RNNs, Transformers, LLMs  
+
+### **Chapter 9: Reasoning with Uncertainty**
+- 9.1–9.3 → Probability & Belief Networks  
+- 9.4–9.6 → Probabilistic Inference & HMMs  
+- 9.7 → Sampling Techniques  
+
+### **Chapter 10: Learning with Uncertainty**
+- 10.1–10.2 → Probabilistic & Bayesian Learning  
+- 10.3 → Unsupervised Learning: k-Means, EM  
+- 10.4 → Learning Belief Networks  
+
+### **Chapter 11: Causality**
+- 11.1–11.3 → Do-Calculus, D-Separation  
+- 11.4–11.5 → Instrumental Variables, Counterfactuals  
+
+### **Chapter 12: Planning with Uncertainty**
+- 12.1–12.3 → Preferences, Utility, Policies  
+- 12.4–12.5 → Decision & Dynamic Networks  
+
+### **Chapter 13: Reinforcement Learning**
+- 13.1–13.5 → Q-Learning, Exploration, SARSA  
+- 13.6–13.9 → Evaluation, Model-Based RL  
+
+### **Chapter 14: Multiagent Systems**
+- 14.1–14.2 → Multiagent Framework & Game Representations  
+- 14.3–14.7 → Adversarial Reasoning, Coordination, MARL  
+
+### **Chapter 15: Individuals and Relations**
+- 15.1–15.5 → Predicate Logic, Datalog, Unification  
+- 15.6–15.9 → Rule-Based Grammars, Equality, CK Assumption  
+
+### **Chapter 16: Knowledge Graphs and Ontologies**
+- 16.1 → Triples, Identifiers  
+- 16.2 → Class/Property Hierarchies  
+- 16.3 → Ontologies and Description Logic  
+
+### **Chapter 17: Relational Learning & Probabilistic Reasoning**
+- 17.1 → Feature Learning from Relations  
+- 17.2 → Knowledge Graph Embeddings  
+- 17.3 → Relational Models, Collective Classification  
+
+### **Chapter 18: Social Impact of AI**
+- 18.1–18.8 → Values, Bias, HCI, Ethics, Governance  
+
+### **Chapter 19: Retrospect and Prospect**
+- 19.1–19.3 → Deployment, Design Review, Future Outlook  
+
+### **Appendix A: Mathematical Preliminaries**
+- A.1–A.4 → Rolling Average, Discrete Math, Arrays, Relational Algebra  
+
+### **Appendix B: Open-Source Packages**
+- B.1 → Gradient Boosted Trees  
+- B.2 → Deep Learning Frameworks  
+
+
